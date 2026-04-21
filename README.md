@@ -1,5 +1,4 @@
 # miniguia-totvs-protheus-compras-notebooklm
-Curso: Explore o Poder do NotebookLM
 📑 Miniguia de Estudos: TOTVS Protheus Compras (Release 12.1.2410)
 🎯 Contexto e Objetivos
 Este repositório é o resultado do desafio de projeto da DIO, onde utilizei o NotebookLM da Google para criar um "Segundo Cérebro" focado no módulo de Compras (SIGACOM) da TOTVS, release 12.1.2410 (Onça Preta).
