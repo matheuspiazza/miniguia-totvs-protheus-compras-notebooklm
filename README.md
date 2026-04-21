@@ -1,6 +1,3 @@
-<img width="1455" height="688" alt="mapa-mesntal-compras" src="https://github.com/user-attachments/assets/e71349f6-1a40-4053-8e36-36ce4e319cc3" />
-<img width="1919" height="1005" alt="teste_prmpt-parametro" src="https://github.com/user-attachments/assets/7d258c91-38bd-4c37-8f57-8e365eff0568" />
-<img width="478" height="983" alt="lista-de-fontes" src="https://github.com/user-attachments/assets/8967166d-aac5-461b-bc1e-61c8316889fd" />
 # miniguia-totvs-protheus-compras-notebooklm
 Curso: Explore o Poder do NotebookLM
 📑 Miniguia de Estudos: TOTVS Protheus Compras (Release 12.1.2410)
@@ -20,7 +17,7 @@ Para este projeto, realizei uma curadoria robusta, selecionando 22 fontes (entre
 
 Visualização das Fontes no NotebookLM:
 
-<img src="lista-de-fontes.png" width="400" alt="Lista de 22 fontes curadas no NotebookLM">
+<img width="478" height="983" alt="lista-de-fontes" src="https://github.com/user-attachments/assets/8967166d-aac5-461b-bc1e-61c8316889fd" />
 
 Destaque das Fontes:
 
@@ -38,7 +35,7 @@ Ao investigar a configuração do Novo Fluxo de Compras (NFC), testei um prompt 
 
 Interação Documentada:
 
-<img src="teste-prompt-parametro.png" width="600" alt="Chat mostrando o teste do prompt sobre o parâmetro X">
+<img width="1919" height="1005" alt="teste_prmpt-parametro" src="https://github.com/user-attachments/assets/7d258c91-38bd-4c37-8f57-8e365eff0568" />
 
 Cicatriz/Insight: Ao perguntar sobre um "parâmetro X", a IA me corrigiu (troubleshooting) baseada nas fontes, informando que o parâmetro não existia, mas listou os parâmetros reais e essenciais (MV_WFSNDAU, MV_WFMLBOX) para o sucesso do fluxo de e-mails na rotina PGCA010.
 
@@ -48,7 +45,7 @@ Como síntese do conhecimento, utilizei o recurso do NotebookLM para gerar um ma
 
 Mapa Mental do Módulo de Compras:
 
-<img src="mapa-mental-compras.png" width="600" alt="Mapa Mental gerado pela IA com os 5 pilares do módulo">
+<img width="1455" height="688" alt="mapa-mesntal-compras" src="https://github.com/user-attachments/assets/e71349f6-1a40-4053-8e36-36ce4e319cc3" />
 
 2. Glossário de Conceitos-Chave
 NFC: Novo Fluxo de Compras, o processo unificado e modernizado.
